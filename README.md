@@ -1,5 +1,6 @@
 # dummies
 following the book "Github for Dummies"
+The idea is to write something about me: hello, it's me Ogi! I am an old web developer.
 
 # this is a template suggested in the book
 
